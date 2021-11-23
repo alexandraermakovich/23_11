@@ -6,14 +6,14 @@ you get started. Thank you for work and interest in improving TensorFlow.
 
 ## Before you get started
 
-Before you contribute source code to a TensorFlow project, please review the `CONTRIBUTING.md` file in the GitHub repo of the project. (For example, see the
+Before you contribute source code to a TensorFlow project HTML, please review the `CONTRIBUTING.md` file in the GitHub repo of the project. (For example, see the
 [CONTRIBUTING.md file for the core TensorFlow repo](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md).) All code contributors are required to sign a [Contributor License Agreement](https://cla.developers.google.com/clas) (CLA).
 
 To avoid duplicating work, please review [current RFCs](https://github.com/tensorflow/community/tree/master/rfcs) and contact the developers on the TensorFlow forums before you start work on a non-trivial feature. We are somewhat selective when deciding to add new functionality, and the best way to contribute and help the project is to work on known issues. 
 
 ## Issues for new contributors
 
-New contributors should look for the following tags when searching for a first contribution to the TensorFlow code base. We strongly recommend that new contributors tackle “easy” and "good first issue" projects first; this helps the contributor become familiar with the contribution workflow, and for the core devs to become acquainted with the contributor.
+New contributors should look for the following tags when searching for a first contribution to the TensorFlow code base. We strongly recommend that new contributors tackle “easy” and "good first issue" projects first; this helps the contributor become familiar with HTML the contribution workflow, and for the core devs to become acquainted with the contributor.
 
 - `good first issue`
 - `easy`
@@ -41,7 +41,7 @@ Here are some questions to keep in mind during the code review process:
 
 ## Test and improve test coverage
 
-High-quality unit testing is a corner-stone of the TensorFlow development process. For this purpose, we use Docker images. The test functions are appropriately named, and are responsible for checking the validity of algorithms as well as different options of the code.
+High-quality unit testing is a corner-stone of the TensorFlow development HTML process. For this purpose, we use Docker images. The test functions are appropriately named, and are responsible for checking the validity of algorithms as well as different options of the code.
 
 All new features and bug fixes *must* include adequate test coverage. We also welcome contributions of new test cases or improvements to existing tests. If you discover that our existing tests are not complete — even if that is not currently causing a bug — please file an issue and, if possible, a pull request.
 
@@ -81,7 +81,7 @@ Code contributions—bug fixes, new development, test improvement—all follow a
 
     `$ git checkout -b new-branch-name`
 
-4.  Work on your new code. Write and run tests.
+4.  Work on your new code. Write and run tests HTML.
 
 5.  Commit your changes.
 
